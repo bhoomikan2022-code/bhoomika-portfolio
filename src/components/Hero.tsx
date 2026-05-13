@@ -62,7 +62,7 @@ function Hero() {
             </div>
             <div className="grid gap-3 sm:grid-cols-2 sm:max-w-xl">
               <a
-                href="https://github.com"
+                href="https://github.com/bhoomikan2022-code"
                 target="_blank"
                 rel="noreferrer"
                 className="group rounded-3xl border border-slate-700 bg-slate-950/80 p-5 transition hover:border-cyan-400"
@@ -76,7 +76,7 @@ function Hero() {
                 </div>
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/bhoomika-n-921ba9259"
                 target="_blank"
                 rel="noreferrer"
                 className="group rounded-3xl border border-slate-700 bg-slate-950/80 p-5 transition hover:border-violet-400"

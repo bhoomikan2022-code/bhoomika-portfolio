@@ -40,10 +40,10 @@ function Navbar() {
             Contact
             <ArrowUpRight size={16} />
           </a>
-          <a href="https://github.com" target="_blank" rel="noreferrer" className="rounded-full border border-slate-700 p-2 text-slate-300 transition hover:bg-slate-900 hover:text-white">
+          <a href="https://github.com/bhoomikan2022-code" target="_blank" rel="noreferrer" className="rounded-full border border-slate-700 p-2 text-slate-300 transition hover:bg-slate-900 hover:text-white">
             <Github size={18} />
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="rounded-full border border-slate-700 p-2 text-slate-300 transition hover:bg-slate-900 hover:text-white">
+          <a href="https://www.linkedin.com/in/bhoomika-n-921ba9259" target="_blank" rel="noreferrer" className="rounded-full border border-slate-700 p-2 text-slate-300 transition hover:bg-slate-900 hover:text-white">
             <Linkedin size={18} />
           </a>
         </div>

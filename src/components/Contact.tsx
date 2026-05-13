@@ -43,7 +43,7 @@ function Contact() {
               </div>
               <div className="grid gap-3 sm:grid-cols-2">
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/bhoomika-n-921ba9259"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center gap-3 rounded-3xl border border-slate-700/80 bg-slate-900/80 px-5 py-4 text-slate-100 transition hover:border-violet-400"
@@ -51,7 +51,7 @@ function Contact() {
                   <Linkedin className="h-5 w-5 text-violet-300" /> LinkedIn
                 </a>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/bhoomikan2022-code"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center gap-3 rounded-3xl border border-slate-700/80 bg-slate-900/80 px-5 py-4 text-slate-100 transition hover:border-cyan-400"

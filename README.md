@@ -63,9 +63,9 @@ This project is ready for deployment on Vercel. The production build output is g
 
 ## Contact
 
-- Email: n.bhoomika@example.com
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- Email: bhoomikan667@gmail.com
+- GitHub: https://github.com/bhoomikan2022-code
+- LinkedIn: https://www.linkedin.com/in/bhoomika-n-921ba9259
 
 ---
 
