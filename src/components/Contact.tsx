@@ -31,14 +31,14 @@ function Contact() {
                 <Mail className="h-5 w-5 text-cyan-300" />
                 <div>
                   <p className="text-sm text-slate-400">Email</p>
-                  <p className="font-medium text-white">n.bhoomika@example.com</p>
+                  <p className="font-medium text-white">bhoomikan667@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-center gap-3 rounded-3xl border border-slate-700/80 bg-slate-900/80 px-5 py-4">
                 <Phone className="h-5 w-5 text-violet-300" />
                 <div>
                   <p className="text-sm text-slate-400">Phone</p>
-                  <p className="font-medium text-white">+91 98765 43210</p>
+                  <p className="font-medium text-white">+91 70136 98378</p>
                 </div>
               </div>
               <div className="grid gap-3 sm:grid-cols-2">
@@ -66,7 +66,7 @@ function Contact() {
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true, amount: 0.2 }}
             transition={{ duration: 0.8 }}
-            action="mailto:n.bhoomika@example.com"
+            action="mailto:bhoomikan667@gmail.com"
             className="glass-card rounded-[2rem] border border-white/10 p-8 shadow-card"
           >
             <div className="grid gap-5">
