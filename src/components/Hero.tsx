@@ -54,7 +54,9 @@ function Hero() {
                 <Briefcase size={18} /> Hire Me
               </a>
               <a
-                href="#"
+                href="/resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 rounded-full border border-slate-700 bg-slate-900/80 px-6 py-3 text-sm font-semibold text-slate-100 transition hover:border-sky-400 hover:text-white"
               >
                 <Download size={18} /> Resume

@@ -61,6 +61,17 @@ npm run build
 
 This project is ready for deployment on Vercel. The production build output is generated to the `dist/` folder, which Vercel can serve directly.
 
+## Resume upload
+
+To add your resume to the portfolio:
+
+1. Put your resume file at `public/resume.pdf`.
+2. The site already links the resume button to `/resume.pdf`.
+3. Commit the file and push to GitHub.
+4. Redeploy on Vercel.
+
+If you want the resume to download instead of open in a browser, I can also update that button behavior.
+
 ## Contact
 
 - Email: bhoomikan667@gmail.com
